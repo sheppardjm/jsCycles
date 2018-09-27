@@ -4,7 +4,7 @@ title = "JS Cycles | A Cycling Blog"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-36027276-1"
 # Define how many posts should appear on a site
 paginate = 10
 
