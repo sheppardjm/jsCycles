@@ -1,0 +1,4 @@
+/* Fix for poptrox lightbox on small screens */
+.poptrox-popup {
+  width: 100% !important;
+}
