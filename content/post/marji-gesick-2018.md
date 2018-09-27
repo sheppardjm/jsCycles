@@ -1,7 +1,7 @@
 ---
 title: "What it's like to miss a Marji Gesick belt buckle by less than two minutes"
 date: 2018-09-27
-draft: true
+draft: false 
 ---
 
 **Someone tells you it’s eight minutes to 7:30 PM. You have 11 hours and 50 odd minutes in your legs. You meant to do this two years ago but your bike broke the night before. Last year you found out heat hurts. This year was supposed to be different. You trained exclusively for this race. Said screw the local XC events and signed up for five hundred mile races across the Midwest. You threw up, you crashed, you pissed blood, but you became something stronger every single time you survived. And it comes down to this.**
