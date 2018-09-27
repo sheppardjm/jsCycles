@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Strata"
+title = "JS Cycles | A Cycling Blog"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
