@@ -145,3 +145,8 @@ paginate = 10
 	name = "Blog"
 	url  = "post/"
 	weight = 0
+
+[[menu.main]]
+        name = "Results"
+        url = "resume/"
+        weight = 0
