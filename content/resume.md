@@ -22,6 +22,10 @@ Age | Weight (kg) | Height (cm)
 ---
 
 # 2018
+## National Ultra Endurance Series
+### 17th
+**Epic Men**
+
 ## Marji Gesick, *9.22*
 ##### Ishpeming, MI
 ### 20th
