@@ -9,6 +9,16 @@ Age | Weight (kg) | Height (cm)
 28 | 67 | 183 
 
 # 2019
+## Arcadia Grit & Gravel, *5.18*
+##### Arcadia, MI
+### 1st
+**Elite Men**
+
+## Mud, Sweat, & Beers, *5.4*
+##### Traverse City, MI
+### 2nd
+**Elite Men**
+
 ## Barry Roubaix, *4.13*
 ##### Hastings, MI
 ### 1st
