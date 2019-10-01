@@ -9,6 +9,26 @@ Age | Weight (kg) | Height (cm)
 28 | 67 | 183 
 
 # 2019
+## MMM Gravel Grinder, *9.28*
+##### Boyne City, MI
+### 4th
+**40-mile Overall**
+
+## Ride the Highlander, *8.24*
+##### Harbor Springs, MI
+### 1st
+**Long Course Overall**
+
+## Short's Glacial Hills Challenge, *8.18*
+##### Bellaire, MI
+### 1st
+**Elite Men**
+
+## The Divide, *7.28*
+##### Manton, MI
+### 2nd
+**Divide+ 34-mile Overall**
+
 ## Arcadia Grit & Gravel, *5.18*
 ##### Arcadia, MI
 ### 1st
