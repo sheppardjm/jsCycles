@@ -9,6 +9,11 @@ Age | Weight (kg) | Height (cm)
 28 | 67 | 183 
 
 # 2019
+## Iceman Cometh, *11.2*
+##### Traverse City, MI
+### 16th
+**Pro/Cat 1**
+
 ## MMM Gravel Grinder, *9.28*
 ##### Boyne City, MI
 ### 4th
