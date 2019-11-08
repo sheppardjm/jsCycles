@@ -52,7 +52,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "If you're lost, you're in the right place."
-                content = "I signed up for a mountain bike time trial on a whim one boozy night in 2012 and here I am 6 years later with a garage full of bikes, legs full of scars, and an unending appetite for adventure." 
+                content = "I signed up for a mountain bike time trial on a whim one crazy night in 2012 and here I am 7 years later with a garage full of bikes, legs full of scars, and an unending appetite for adventure." 
   
 	[params.portfolio]
 		hide  = true
