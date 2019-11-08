@@ -6,7 +6,7 @@ draft: false
 
 Age | Weight (kg) | Height (cm)
 --- | --- | ---
-28 | 67 | 183 
+29 | 67 | 183 
 
 # 2019
 ## Iceman Cometh, *11.2*
