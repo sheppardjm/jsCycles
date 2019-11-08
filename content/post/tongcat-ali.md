@@ -28,7 +28,7 @@ While there are many more studies out there, these two show Tongcat’s benefici
 
 ## How much to take
 
-Most studies cycled supplementation for 4-6 weeks at a dose of 100-400mg/day. I would recommend trying Tongcat during an especially difficult training block like the one I completed prior to Iceman, during a racing/training block where form must be prioritized, or during the build or end-of-base phase where fatigue is particularly high. I took 400mg/day for six weeks leading up to Iceman and noticed less fatigue than normal while my power numbers kept climbing. I finished 16th overall.
+Most studies cycled supplementation for 4-6 weeks at a dose of 100-400mg/day. I would recommend trying Tongcat during an especially difficult training block like the one I completed prior to Iceman, during a racing/training block where form must be prioritized, or during the build or end-of-base phase where fatigue is particularly high. I took 400mg/day for six weeks leading up to Iceman and noticed less fatigue than normal while my power numbers kept climbing. I finished [16th](https://www.iceman.com/events/1993373-2019-bell-s-iceman-cometh-challenge/event_scoring_results).
 
 [^1]: Hoogeveen AR, Zonderland ML. Relationship between testosterone, cortisol and performance in professional cyclists. Int J Sports Med1996;17:423–8.
 
