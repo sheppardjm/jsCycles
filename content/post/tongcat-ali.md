@@ -18,7 +18,7 @@ Cycling is hard on a number of levels but especially at the hormonal level. Inte
 
 ## Enter Tongcat
 
-On the slopes of the Malaysian rainforests is a shrub-like plant whose roots have been a part of Southeast Asian medicine for centuries. The Tongkat Ali root (*Eurycoma longifolia Jack*), sometimes called Longjack or Malaysian ginseng, has long been used to combat disease, stress, and improve physical and sexual health. Only recently have scientists begun studying the body’s internal response to an extracted supplement of Tongcat Ali (TA). While the precise biological mechanism that causes it’s positive effects is unknown, study after study has found TA extract increases physical performance.
+On the slopes of the Malaysian rainforests is a shrub-like plant whose roots have been a part of Southeast Asian medicine for centuries. The Tongkat Ali root (*Eurycoma longifolia Jack*), sometimes called Longjack or Malaysian ginseng, has long been used to combat disease, stress, and improve physical and sexual health. Only recently have scientists begun studying the body’s internal response to an extracted supplement of Tongcat Ali (TA). While the precise biological mechanism that causes its positive effects is unknown, study after study has found TA extract increases physical performance.
 
 In one study, 14 men completed circuit weight training for five weeks with half taking 100mg/day of TA extract. The group taking TA saw a 7% increase in one-rep max strength and a 1.8 cm growth in arm circumference while the placebo group increased just 3% and saw no significant muscle growth. [^2]
 
