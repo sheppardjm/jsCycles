@@ -8,11 +8,11 @@ draft: false
 
 ## Some background
 
-I finally lined up for the Iceman Cometh this year after burning out mid-October in both 2016 and 2017 and breaking my foot playing hockey a week before the 2018 race. With a Pro field 100-deep that featured national champions, former world tour pros, and about every build of elite mountain biker imaginable, I knew I needed to do everything possible to boost my sprint and anaerobic capabilities just to hang onto the back of the lead group for a few miles. 
+I finally lined up for the Iceman Cometh this year after burning out mid-October in both 2016 and 2017 and breaking my foot playing hockey a week before the 2018 race. With a pro field 100-deep that featured national champions, former World Tour pros, and about every build of elite mountain biker imaginable, I knew I needed to do everything possible to boost my sprint and anaerobic capabilities just to hang onto the back of the lead group for a few miles. 
 
 What that meant for my last training block before Iceman was 2-3 high-intensity interval workouts, 1-3 plyometric workouts, and 2-3 strength and core sessions per week. All of that added up to my usual 10 hours per week of training but combining strength, power, and interval workouts meant I was going to be dealing with a lot of fatigue while having to perform at a high level. Like most Americans I searched for a pharmacological antidote to the stress.
 
-## But first, understand the body’s stress response to training
+## But first, understanding the body’s stress response to training
 
 Cycling is hard on a number of levels but especially at the hormonal level. Intense or long rides activate the body’s stress response system and cause it to produce and release cortisol. One of the ways cortisol is used by the body is to reduce inflammation caused by torn muscle fibers following exercise. While this process is helpful for building muscle, long-term elevated cortisol levels lower bone density, suppress the immune system, and can lead to weight gain. Also, as cortisol levels increase in athletes, testosterone has been documented to fall [^1] Testosterone is an anabolic steroid that plays a key role is building muscle and bone. An off-balance ratio between cortisol and testosterone has been a key marker of Overtraining Syndrome in athletes for decades. This hormonal response is one of the main reasons for recovery weeks—so that the cyclist’s body has time to return to normal hormone levels.
 
