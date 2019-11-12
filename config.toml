@@ -55,46 +55,46 @@ paginate = 10
                 content = "I signed up for a mountain bike time trial on a whim one crazy night in 2012 and here I am 7 years later with a garage full of bikes, legs full of scars, and an unending appetite for adventure." 
   
 	[params.portfolio]
-		hide  = true
+		hide  = false
 		title = "Recent Races"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "2018 Barry Roubaix 100"
-			description = "6th place"
+			image = "fulls/iceman_1.jpg"
+			thumb = "thumbs/iceman_1.jpg"
+			title = "2019 Iceman Cometh"
+			description = "Finish line"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/o2s_1.jpg"
+			thumb = "thumbs/o2s_1.jpg"
+			title = "2019 Ore to Shore"
+			description = "Misery Hill"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/iceman_2.jpg"
+			thumb = "thumbs/iceman_2.jpg"
+			title = "2019 Iceman Cometh"
+			description = "Woodchip Hill"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/o2s_2.jpg"
+			thumb = "thumbs/o2s_2.jpg"
+			title = "2019 Ore to Shore"
+			description = "Lucy Hill"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/arcadia_1.jpg"
+			thumb = "thumbs/arcadia_1.jpg"
+			title = "2019 Arcadia Grit & Gravel"
+			description = "Deep Dark Forest"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/manton_1.jpg"
+			thumb = "thumbs/manton_1.jpg"
+			title = "The Divide"
+			description = "CR 553"
 
 	[params.recentposts]
 		hide  = false
