@@ -1,10 +1,8 @@
 ---
-title: "Tongcat Ali: The testosterone booster you've never heard of"
+title: "Tongcat Ali: Managing stress for cyclists"
 date: 2019-11-06T15:09:58-05:00
 draft: false
 ---
-
-# Miracle drug or all hype?
 
 ## Some background
 
