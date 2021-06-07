@@ -8,7 +8,7 @@ draft: false
 
 I really hate writing race reports because it forces me to use the second person too much, as in ‘sometimes you just have a bad day’, or ‘you know, I really thought I did everything right this time.’ So I’ll try to refrain from that self-help-blog type writing and focus on the particulars of why the 2021 Mohican 100 kicked my ass so bad.
 
-## Preperation
+## Preparation
 
 Going into the race I knew it was going to be hotter, longer, and more hilly than usual with the addition of a new singletrack loop in Glenmont and extra trail added to Mohaven. That being the case I tried to acclimate by riding in the heat of the day for every ride leading up to the race. I thought I did a pretty good job as several of my outside interval sessions left me dry heaving in the grass atop various Marquette peaks. Unfortunately the U.P. is so damn far north our spring began just a couple weeks ago and after pulling the average humidity and temperature data from my GPS unit for the 17 rides leading into Mohican I realized I was horribly ill-prepared (63ºF / 60% hm) for the 85ºF and 80% humidity we encountered as early as 11am on race day.
 
