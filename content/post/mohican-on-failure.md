@@ -12,7 +12,7 @@ I really hate writing race reports because it forces me to use the second person
 
 Going into the race I knew it was going to be hotter, longer, and more hilly than usual with the addition of a new singletrack loop in Glenmont and extra trail added to Mohaven. That being the case I tried to acclimate by riding in the heat of the day for every ride leading up to the race. I thought I did a pretty good job as several of my outside interval sessions left me dry heaving in the grass atop various Marquette peaks. Unfortunately the U.P. is so damn far north our spring began just a couple weeks ago and after pulling the average humidity and temperature data from my GPS unit for the 17 rides leading into Mohican I realized I was horribly ill-prepared (63ºF / 60% hm) for the 85ºF and 80% humidity we encountered as early as 11am on race day.
 
-One 90-miler I did two weeks before the race got up to 80º but the humidity was low and the breeze was steady and I went slow and stopped often so I never cramped or felt power drain. I did however lose 10 pounds during the 9 hours on the bike that day which led me to absolutely smash water bottles the three days leading into the race. I also drank en electrolyte bottle before bed on Thursday and Friday. Other than forgetting my sleeping pad and having an adorable family with three toddler-age not-so-happy campers next to me I felt impeccably prepared for Saturday.
+One 90-miler I did two weeks before the race got up to 80º but the humidity was low and the breeze was steady and I went slow and stopped often so I never cramped or felt power drain. I did however lose 10 pounds during the 9 hours on the bike that day which led me to absolutely smash water bottles the three days leading into the race. I also drank an electrolyte bottle before bed on Thursday and Friday. Other than forgetting my sleeping pad and having an adorable family with three toddler-age not-so-happy campers next to me I felt impeccably prepared for Saturday.
 
 ## Race
 
@@ -37,16 +37,17 @@ So of course there I was two hours into my first 100-mile race of the year and t
 My Covid test came back negative so there’s a high likelihood it was just heat stress (though I won’t rule out consuming horse shit as I’m still having a hard time keeping food down). About 50% of the Men’s 100 field DNF’d including a former two-time winner.
 
 Here’s what I’ll do different next time:
+
 1. 10-to-14 day sauna regimen leading up to the race (and if no sauna is available make sure to do one long ride in the dead heat of summer at race tempo where I basically have to crawl home from heat exhaustion)
-2. If I swap anything saddle-related make sure to ride at least 3 hours to feel if it’s a good fit
-3. If I start to overheat stop at the first water crossing and cool down
-4. Never leave an aid station in a worse state than I arrived
-5. Earplugs and a comfortable sleeping setup are a must if I camp again though it’s really not a smart idea to camp before a 100-miler if it’s above 70º due to ambient sweat loss
-6. Have a gameplan for when I start getting sick
-7. Instant cold packs in drop bags if it’s going to be 80º or humidity over 60%
-8. If I’m worried about the heat START SLOW or lower expectations
-9. Have fun
-10. Remember it's just a bike race
+1. If I swap anything saddle-related make sure to ride at least 3 hours to feel if it’s a good fit
+1. If I start to overheat stop at the first water crossing and cool down
+1. Never leave an aid station in a worse state than I arrived
+1. Earplugs and a comfortable sleeping setup are a must if I camp again though it’s really not a smart idea to camp before a 100-miler if it’s above 70º due to ambient sweat loss
+1. Have a gameplan for when I start getting sick
+1. Instant cold packs in drop bags if it’s going to be 80º or humidity over 60%
+1. If I’m worried about the heat START SLOW or lower expectations
+1. Have fun
+1. Remember it's just a bike race
 
 This is a whole lot of hard-earned, expensive knowledge so if you’re so inclined please support the people who support me:
 
