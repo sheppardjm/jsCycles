@@ -6,7 +6,19 @@ draft: false
 
 Age | Weight (kg) | Height (cm)
 --- | --- | ---
-29 | 67 | 183 
+31 | 67 | 183 
+
+# 2021
+## Lumberjack 100, *6.19*
+##### Wellston, MI
+### 5th
+**Open Men**
+
+# 2020
+## Mohican 100, *5.30*
+##### Loudonville, Oh
+### 7th
+**Open Men**
 
 # 2019
 ## Iceman Cometh, *11.2*
