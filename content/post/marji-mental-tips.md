@@ -30,7 +30,7 @@ Inevitably, the plan falls apart. What is your system for dealing with disappoin
 
 ### 5. Stay positive
 
-For a while growing up, my dad was a seed and chemical salesman and under the bucket seat in his pickup he had this plastic book of motivational tapes titled something along the lines of *Attitude is Everything* which got him through the many rejections and setbacks of retail ag sales (it takes somewhere on average 10 trips to the farm to make a cold seed sale). We used to listen to those tapes on the way to hockey tournaments and it was amazing seeing the results in practice when our team would lose the first game of the round robin and go on to win the whole thing because we were cocky little pricks who expected to win. I’m sure all the other teams’ mommys and daddums told them they were special and could do anything but in Midland we were *just* pretentious enough to believe it. And that counts for A LOT.
+For a while growing up, my dad was a seed and chemical salesman and under the bucket seat in his pickup he had this plastic book of motivational tapes from Dennis Waitley titled  *The Psychology of Winning* that got him through the many rejections and setbacks of retail ag sales (it takes somewhere on average 10 trips to the farm to make a cold seed sale). We used to listen to those tapes on the way to hockey tournaments and it was amazing seeing the results in practice when our team would lose the first game of the round robin and go on to win the whole thing because we were cocky little pricks who expected to win. I’m sure all the other teams’ mommys and daddums told them they were special and could do anything but in Midland we were *just* pretentious enough to believe it. And that counts for A LOT.
 
 ### 6. The last 15 are the best
 
