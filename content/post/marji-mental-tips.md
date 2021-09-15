@@ -34,7 +34,7 @@ For a while growing up, my dad was a seed and chemical salesman and under the bu
 
 ### 6. The last 15 are the best
 
-My sarcastic cycling-blogger persona would like to remind you that the last 15 (né 17) are your favorite miles. Danny Duro, Flannel Shirt, Grandview, AM/FM, Devils Drop, those are your jams. You love the tight handmade switchbacks that you hear some guy did once. You love the steep rock rolls you’re never quite sure won’t buck you headfirst into a tree. The climbs are short and have plenty of traction. The new stuff is easy. It’s never wet out there.
+My sarcastic cycling-blogger persona would like to remind you that the last 17 (né 15) are your favorite miles. Danny Duro, Flannel Shirt, Grandview, AM/FM, Devils Drop, those are your jams. You love the tight handmade switchbacks that you hear some guy did once. You love the steep rock rolls you’re never quite sure won’t buck you headfirst into a tree. The climbs are short and have plenty of traction. The new stuff is easy. It’s never wet out there.
 
 ### 7. The first 15 are the hardest: go out easy
 
