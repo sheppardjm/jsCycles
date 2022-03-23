@@ -9,6 +9,11 @@ Age | Weight (kg) | Height (cm)
 31 | 67 | 183 
 
 # 2021
+## Iceman Cometh, *11.6*
+##### Traverse City, MI
+### 24th
+**Pro/ Cat 1**
+
 ## Marji Gesick 100, *9.17*
 ##### Ishpeming, MI
 ### 8th
