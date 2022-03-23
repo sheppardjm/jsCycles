@@ -9,6 +9,11 @@ Age | Weight (kg) | Height (cm)
 31 | 67 | 183 
 
 # 2021
+## Marji Gesick 100, *9.17*
+##### Ishpeming, MI
+### 8th
+**Open Men**
+
 ## Lumberjack 100, *6.19*
 ##### Wellston, MI
 ### 5th
