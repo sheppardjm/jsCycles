@@ -255,7 +255,7 @@ Super short (*5.5km city loop on road bikes*) technical parade through Adelaide.
 Five times up Menglers Hill (*4km, 3.7%*) separates the sprinters from their shot at a win. **Michael Matthews** and his Jayco team will try to dislodge the pure sprinters from the train. **Caleb Ewan** survived the hilly Australian National Championship in fine form and **Ethan Hayter** is a good climber as well so the trio could have a shot from a reduced bunch. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-1)
 
 ### Stage 2 - Thursday 19th January
-Another reduced bunch sprint day with a decisive steep (*2km, 7.8%) climb 22km from the line. Expect Ewan and Matthews to make the finale. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-2)
+Another reduced bunch sprint day with a decisive steep (*2km, 7.8%*) climb 22km from the line. Expect Ewan and Matthews to make the finale. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-2)
 
 ### Stage 3 - Friday 20th January
 This could be the Queen stage with Corkscrew Road (*2.4km, 8.9%) appearing just before a short 6km descent to the finish. Corkscrew ramps up to over 15% in the middle so can provide a launching point for a GC attack. Daryl Impey won from a 20-man group in 2019, Simon Gerrans from a 10-man group in 2016, and in 2014 Cadel Evans stayed away to win solo. Bonus seconds on the line could be the difference in the overall. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-3)
