@@ -258,7 +258,7 @@ Five times up Menglers Hill (*4km, 3.7%*) separates the sprinters from their sho
 Another reduced bunch sprint day with a decisive steep (*2km, 7.8%*) climb 22km from the line. Expect Ewan and Matthews to make the finale. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-2)
 
 ### Stage 3 - Friday 20th January
-This could be the Queen stage with Corkscrew Road (*2.4km, 8.9%) appearing just before a short 6km descent to the finish. Corkscrew ramps up to over 15% in the middle so can provide a launching point for a GC attack. Daryl Impey won from a 20-man group in 2019, Simon Gerrans from a 10-man group in 2016, and in 2014 Cadel Evans stayed away to win solo. Bonus seconds on the line could be the difference in the overall. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-3)
+This could be the Queen stage with Corkscrew Road (*2.4km, 8.9%*) appearing just before a short 6km descent to the finish. Corkscrew ramps up to over 15% in the middle so can provide a launching point for a GC attack. **Daryl Impey** won from a 20-man group in 2019, Simon Gerrans from a 10-man group in 2016, and in 2014 Cadel Evans stayed away to win solo. Bonus seconds on the line could be the difference in the overall. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-3)
 
 ### Stage 4 - Saturday 21st January
 Proper sprint day for the big boys. The finish is a little uphill but expect the powerhouses like **Phil Bauhaus** and **Kayden Groves** to have a shake at their first victory of 2023. [More.](https://tourdownunder.com.au/race/mens/stages/mens-stage-4)
