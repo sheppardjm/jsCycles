@@ -48,6 +48,6 @@ This kid is something else and finally has the chance to race at the highest lev
 ### 3. Tim Wellens (+2000 *to win*)
 Wellens is on fine form again in February and without a true powerhouse to dominate the field it could come down to a late attack surprise. Of course it’s Wellens so he’s bound to get caught, but with the legs he’s shown this year it could get interesting and there have been more than the bookie’s hold of breakaways succeeding this year.
 
-Use my [referral link](https://sportsbook.draftkings.com/r/sb/thekidyouforgot/US-MI-SB) to sign up for Draftkings and receive a $25 bonus bet[^1]. *That’s a $200 payout from a Tom Pidcock win (+800).* I don't officially condone sports betting, but is the only way I'll be able to afford a house one day (by investing in meme stocks, not actual gambling, Mom).
+Use my [referral link](https://sportsbook.draftkings.com/r/sb/thekidyouforgot/US-MI-SB) to sign up for Draftkings and receive a $25 bonus bet[^1]. *That’s a $200 payout from a Tom Pidcock win (+800).* I don't officially condone sports betting, but it is the only way I'll be able to afford a house one day (by investing in meme stocks, not actual gambling, Mom).
 
 [^1]: Must be 21+ and up Michigan to place wagers. If you or someone you know has a gambling problem and wants help, call the Michigan Department of Health and Human Services Gambling Disorder Help-line at: 800-270-7117. Subject to regulatory licensing requirements.
