@@ -6,7 +6,7 @@ draft: false
 
 For those of us in North America digging out from record snowfall and sheets of ice, spring seems months away, but for the classics men of the pro peloton it starts tomorrow in Ghent, East Flanders, Belgium.
 
-Omloop Het Nieuwsblad is the first race and might be my favorite. The last two climbs are some of the most iconic scenes in cycling with grown ass professionals struggling up century’s old cobblestones at 19% grades. Except for the last two years when the weather was merciful, every win has come from a small, cold, wind, and rain-battled group, with 12 climbs and nine flat cobbled stretches breaking the race apart. The race starts in Ghent and ends in Ninove, with 57 of the 77 winners having come from the host country though 3 of the past 6 wins were from non-Belgians.
+Omloop Het Nieuwsblad is the first race in Europe and might be my favorite. The last two climbs are some of the most iconic scenes in cycling with grown ass professionals struggling up century’s old cobblestones at 19% grades. Except for the last two years when the weather was merciful, every win has come from a small, cold, wind, and rain-battled group, with 12 climbs and nine flat cobbled stretches breaking the race apart. The race starts in Ghent and ends in Ninove, with 57 of the 77 winners having come from the host country though 3 of the past 6 wins were from non-Belgians.
 
 - 2022 Wout van Art (BEL)
 - 2021 Davide Ballerini (ITL)
