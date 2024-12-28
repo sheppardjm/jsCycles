@@ -1,0 +1,33 @@
+---
+title: "Sakhalin Island"
+date: 2024-12-27T10:27:08-05:00
+draft: false
+---
+
+In 1890, at 30-years-old, Anton Chekhov, Russia’s most promising writer since Tolstoy and Dostoevsky, embarked on a 2500-mile cross continent journey by horse-drawn cart to the remote Sakhalin Island. The voyage was needlessly harrowing, the visit to the penal colony was the opposite of a lark—it lacked all joy. He wrote, "There were times I felt that I saw before me the extreme limits of man's degradation." The resulting work, _Sakhalin Island_, was dismissed as a publicity stunt, a dry investigative work, pointless and wasteful. Why had the young doctor done such a thing in the prime of his professional output?
+
+Cycling, for me, has felt as objectively insane as Chekhov’s cross country trek. It has cost tens of thousands of dollars for the meager return of some free endorphins, broken bones, and scaring up and down both legs. Of course, Chekhov didn’t imagine his work in Sakhalin would produce an abundance of fruit for his labor either, he must’ve known that whatever came from his experience in tangible means would be worth nothing compared to the experience he gained in the knowledge of the human condition. So, what have I learned about the human condition in my ten years of racing mountain bikes?
+
+## It doesn’t matter
+
+The last conversation I had with my mom was about purpose. I told her I had come around to the conclusion that nothing really mattered. That despite our efforts, we were so cosmically minute that whatever our fortune, ultimately, it was to be lost.
+
+My mother, larger than life in her baby blue bathrobe and fuzzy slippers, pushing off a stitched-top footstool from the rocking chair she reclined in, told me how she agreed, how after college she went to work for large international chemical companies with the idealist’s eye towards simply helping Midwest farmers make better, more environmentally-informed decisions about killing weeds but over time came to realize as glyphosate devoured the industry (90% of the soybean market, 94% of cotton, and 90% of corn) that, it didn’t matter what suggestions she was giving at the farm level; ultimately, her recommendations were made irrelevant by the invisible levers of the industrial agriculture complex.
+
+I had just finished seeing a dairy farmer who was concluding business with our company because a large national brand had consolidated his concerns into a single application (freeing him from using our service that only offered a single standalone app) and thus no longer needed our product.
+
+Upon ending our business, the farmer went into a diatribe about the Democratic nominee for President (this a few days before the election) and because we still sold feed to the farm, I was obligated to appear non-confrontational and equally miserable and chide in, offering my analysis of Harris’ campaign as like someone who is ducking under something but trying to explain all-the-while that they are, in fact, at full height while their shoulders graze granite and dust falls to the floor beneath them.
+
+When the farmer finally finished his dissertation on how the progressive narrative of inclusion and acceptance was ruining the country with transgender children, I thanked him for his time and set off south to the nearest paved road.
+
+I was at a crossroads, should I turn and burn back to Marquette? My face was puffy from drinking and not cycling. My eyes were bloodshot from not sleeping through the night. Comfort was awaiting at home in the northland, offering pleasure in all legal forms. Because the farmer had talked for so long, I decided to drive south to my mom’s house for the night even though I was embarrassed at how fat and shitty I looked. And that was the last time I saw her alive.
+
+I’ve since seen her in my dreams. A week after she passed she appeared in our childhood basement, in her favorite recliner, still in her blue nightgown and slippers, while I sat on the couch next to her. I was overcome with emotion and disbelief. It felt real. Tears welled and dripped down my face. We didn’t say a word to one another but I understood that it was her and that she was okay. She smiled at me and laughed and nodded as if confirming, _yes, it is me, and I’ll always be with you_.
+
+Later that week I was making breakfast and listening to my favorite podcast. In it, the host recommended a new podcast that he had been listening to, _The Telepathy Tapes_, which was about the growing research into possible telepathy and other spiritual gifts in the non-verbal Autistic community. I’m a skeptic. I don’t believe in ghosts or a big bearded God or that crystals have energy, but this podcast shook me. I spent the day in bed listening to every episode and became increasingly convinced that there are forces in this world beyond the scope of our conscious understanding.
+
+Humans are meaning makers. ‘I think it's our instinct to search for meaning and when there is none it's our instinct to create meaning, and we just lie, we lie to ourselves.’ Jason Segel’s character says in the movie _The Discovery_, about a world in which an afterlife is uncovered and people kill themselves to reach it. The metaphorical significance is surface-level: we destroy our true selves in an effort to be eternal. But if my meditation practice has taught me anything the last five years it’s that the _self_ is the true impediment to eternal being.
+
+The self as we conceptualize him—the Jamison with five broken bikes, a drinking problem, and a dead mother—is not real. The only thing that is real is _this_ moment and our presence in it. I fully agree that at first this makes little to no sense. But try this: close your eyes, take a couple deep breaths, focus on the breath where you feel it most whether that be the tip of your nostrils or the lifting of your chest; then, when a thought arises, watch it closely, where does it go? Where does it come from? We are not the creator of our own thoughts—much like sounds in our environment—they simply arise and reach us where we are. We can identify with them (Jamison is fast, Jamison likes beer, Jamison is slow, etc) or we can choose to not relate, to let them pass unremarked like a stinky fart on a crowded elevator.
+
+So what does all this have to do with cycling? Well, it offers some distance between the thoughts and feelings inside of us and whatever it is that notices them. We don’t have to quit or give up if we can realize that these negative occurrences aren’t our true self. That life isn’t about finishing something. That a win or a podium or accomplishing a goal only lasts a moment. That the process is the purpose. That everything is changing in every moment and your only job is to accept it as it is.
