@@ -10,13 +10,11 @@ Cycling, for me, has felt as objectively insane as Chekhov’s cross country tre
 
 ## It doesn’t matter
 
-The last conversation I had with my mom was about purpose. I told her I had come around to the conclusion that nothing really mattered. That despite our efforts, we were so cosmically minute that whatever our fortune, ultimately, it was to be lost.
+The final conversation I had with my mom was about purpose. I told her I had come around to the conclusion that nothing really mattered. That despite our efforts, we were so cosmically minute that whatever our fortune, ultimately, it was to be lost.
 
 My mother, larger than life in her baby blue bathrobe and fuzzy slippers, pushing off a stitched-top footstool from the rocking chair she reclined in, told me how she agreed, how after college she went to work for large international chemical companies with the idealist’s eye towards simply helping Midwest farmers make better, more environmentally-informed decisions about killing weeds but over time came to realize as glyphosate devoured the industry (90% of the soybean market, 94% of cotton, and 90% of corn) that, it didn’t matter what suggestions she was giving at the farm level; ultimately, her recommendations were made irrelevant by the invisible levers of the industrial agriculture complex.
 
-I had just finished seeing a dairy farmer who was concluding business with our company because a large national brand had consolidated his concerns into a single application (freeing him from using our service that only offered a single standalone app) and thus no longer needed our product.
-
-Upon ending our business, the farmer went into a diatribe about the Democratic nominee for President (this a few days before the election) and because we still sold feed to the farm, I was obligated to appear non-confrontational and equally miserable and chide in, offering my analysis of Harris’ campaign as like someone who is ducking under something but trying to explain all-the-while that they are, in fact, at full height while their shoulders graze granite and dust falls to the floor beneath them.
+I had just finished seeing a dairy farmer about a product-end-of-life. Upon concluding our business, the farmer went into a diatribe about the Democratic nominee for President (this a few days before the election) and because we still sold feed to the farm, I was obligated to appear non-confrontational and equally miserable and chide in, offering my analysis of Harris’ campaign as like someone who is ducking under something but trying to explain all-the-while that they are, in fact, at full height while their shoulders graze granite and dust falls to the floor beneath them.
 
 When the farmer finally finished his dissertation on how the progressive narrative of inclusion and acceptance was ruining the country with transgender children, I thanked him for his time and set off south to the nearest paved road.
 
