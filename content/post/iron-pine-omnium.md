@@ -26,6 +26,8 @@ Combined, it's 202 miles and 5,600 feet of climbing across two days on roads tha
 
 ## Why This Exists
 
+Mostly because my boss wanted me to spin up a couple websites to show off what we're capable of at Neucadia.
+
 I have a pastime for building challenging rides that hit the most fun roads. Hiawatha's Revenge started in 2014 as a free fellowship ride out of Munising to benefit the trail network. MK Ultra came later, born from Mark Kransz's initials and route-building obsession and a belief that the gravel roads west of Marquette deserve the kind of event that matches their character—rowdy, technical, unapologetic.
 
 ![A solo rider through spruce corridor](/images/ipo-spruce-corridor.jpg)
